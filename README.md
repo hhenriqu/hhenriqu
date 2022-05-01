@@ -1,9 +1,6 @@
 ## AS LOUCAS AVENTURAS DE PRINTF 2
-<div>
-  <a href="https://github.com/hhenriqu">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=hhenriqu&layout=default&show_icons=true&theme=abyss&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" weigth="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhenriqu&layout=defaultt&langs_count=7&theme=abyss"/>
-</div>
+| <a href="https://github.com/hhenriqu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hhenriqu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Helio's github stats" /></a> | <a href="https://github.com/hhenriqu-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhenriqu&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
   
   ## 
   
