@@ -1,9 +1,12 @@
 ## AS LOUCAS AVENTURAS DE PRINTF 2
 <div>
   <a href="https://github.com/hhenriqu">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=hhenriqu&show_icons=true&theme=abyss&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=hhenriqu&layout=compac&show_icons=true&theme=abyss&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" weigth="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhenriqu&layout=compact&langs_count=7&theme=abyss"/>
 </div>
+  
+  ## 
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="hhmm-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="hhmm-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
