@@ -1,5 +1,13 @@
-## Hi! I'm Helio Moraes.
-# Welcome to my Github, feel free to see my projects and study with me.
+# Hi! I'm Helio Moraes.
+### Welcome to my Github, feel free to see my projects and study with me.
+
+##
+
+<div>
+  <img aling="center" alt="Helio Moraes" width="250" src="https://github.com/hhenriqu/hhenriqu/blob/main/idvisual/Logo_vertical_preto.png">
+</div>
+
+##
 
 
 
