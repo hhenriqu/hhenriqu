@@ -4,7 +4,7 @@
 ##
 
 <div>
-  <img aling="center" alt="Helio Moraes" width="autopx" src="https://github.com/hhenriqu/hhenriqu/blob/main/idvisual/Logo_horizontal_colorido.png">
+  <img aling="center" alt="Helio Moraes" width="autopx" src="heliomoraes.png">
 </div>
 
 ##
